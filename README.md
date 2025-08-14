@@ -43,12 +43,13 @@ Pour démontrer les capacités de filtrage du dashboard, voici une vue du rappor
 
 ![Dashboard filtré sur les millieux](Dashboard_Millieux.png)
 
-*(Cette image montre comment tous les visuels (Top Clubs, Nationalités, Tableau des joueurs) se mettent à jour dynamiquement pour ne refléter que les données relatives aux attaquants.)*
+*(Cette image montre comment tous les visuels (Top Clubs, Nationalités, Tableau des joueurs) se mettent à jour dynamiquement pour ne refléter que les données relatives aux millieux de terrain.)*
 
 ---
 
 ## 📂 Contenu du Dépôt
 
 *   `.pbix` : Le fichier source du projet Power BI (nécessite Power BI Desktop pour être ouvert).
+*   `.png` : Les captures d'écran des dashboards
 *   `/images` : Un dossier contenant les captures d'écran du dashboard.
 *   `README.md` : Ce fichier de présentation.
