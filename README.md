@@ -46,6 +46,15 @@ Pour démontrer les capacités de filtrage du dashboard, voici une vue du rappor
 *(Cette image montre comment tous les visuels (Top Clubs, Nationalités, Tableau des joueurs) se mettent à jour dynamiquement pour ne refléter que les données relatives aux millieux de terrain.)*
 
 ---
+✨ Autre Exemple d'interactivité : Focus sur les "Français"
+
+Voici une vue du rapport lorsqu'il est filtré pour n'afficher que les joueurs qui ont pour nationalité "France".
+
+![Dashboard filtré sur les français](Dashboard_France.png)
+
+*(Cette image montre comment tous les visuels (Top Clubs, Nationalités, Tableau des joueurs) se mettent à jour dynamiquement pour ne refléter que les données relatives aux millieux de terrain.)*
+
+---
 
 ## 📂 Contenu du Dépôt
 
