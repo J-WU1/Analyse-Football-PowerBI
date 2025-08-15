@@ -7,7 +7,7 @@ Un dashboard interactif pour analyser les données de joueurs de football issues
 ---
 
 ## 📸 Aperçu du Dashboard Principal
-![Aperçu du Dashboard Football](Dashboard_Football_Transfermarkt.png)
+![Aperçu du Dashboard Football](/images/Dashboard_Football_Transfermarkt.png)
 
 ---
 
@@ -41,7 +41,7 @@ Ce projet vise à mettre en pratique l'ensemble du processus de Business Intelli
 
 Pour démontrer les capacités de filtrage du dashboard, voici une vue du rapport lorsqu'il est filtré pour n'afficher que les joueurs en position "Midfield".
 
-![Dashboard filtré sur les millieux](Dashboard_Millieux.png)
+![Dashboard filtré sur les millieux](/images/Dashboard_Millieux.png)
 
 *(Cette image montre comment tous les visuels (Top Clubs, Nationalités, Tableau des joueurs) se mettent à jour dynamiquement pour ne refléter que les données relatives aux millieux de terrain.)*
 
@@ -50,7 +50,7 @@ Pour démontrer les capacités de filtrage du dashboard, voici une vue du rappor
 
 Voici une vue du rapport lorsqu'il est filtré pour n'afficher que les joueurs qui ont pour nationalité "France".
 
-![Dashboard filtré sur les français](Dashboard_France.png)
+![Dashboard filtré sur les français](/images/Dashboard_France.png)
 
 *(Cette image montre comment tous les visuels (Top Clubs, Nationalités, Tableau des joueurs) se mettent à jour dynamiquement pour ne refléter que les données relatives aux millieux de terrain.)*
 
@@ -58,7 +58,7 @@ Voici une vue du rapport lorsqu'il est filtré pour n'afficher que les joueurs q
 
 ## 📂 Contenu du Dépôt
 
-*   `.pbix` : Le fichier source du projet Power BI (nécessite Power BI Desktop pour être ouvert).
-*   `.png` : Les captures d'écran des dashboards
-*   `/images` : Un dossier contenant les captures d'écran du dashboard.
-*   `README.md` : Ce fichier de présentation.
+*   **`DataFootTransfertmarkt.pbix`** : Le fichier source du projet Power BI (nécessite Power BI Desktop pour être ouvert).
+*   **`players.csv`** : Le jeu de données brut utilisé comme source pour l'analyse.
+*   **`/images`** : Un dossier contenant les captures d'écran du dashboard.
+*   **`README.md`** : Ce fichier de présentation.
