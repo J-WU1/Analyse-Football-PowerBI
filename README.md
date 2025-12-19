@@ -44,7 +44,7 @@ The goal was to answer key business questions using data:
 ### 1. Focus on "Midfielders"
 Here is the report filtered to show only players in the **"Midfield"** position. The KPIs and charts update dynamically.
 
-![Dashboard Filtered by Midfield](/images/Dashboard_Millieux.png)
+![Dashboard Filtered by Midfield](/images/Dashboard_Midfielder.png)
 
 ### 2. Focus on "France"
 Here is the report filtered to show only players with **"France"** as their nationality.
