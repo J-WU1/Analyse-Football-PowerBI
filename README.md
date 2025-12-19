@@ -59,7 +59,6 @@ Here is the report filtered to show only players with **"France"** as their nati
 *   **`/images`**: Folder containing dashboard screenshots.
 
 ---
----
 
 🇫🇷 **Version Française**
 
